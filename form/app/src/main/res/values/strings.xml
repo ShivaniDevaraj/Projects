@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">regform</string>
+    <string-array name="Branch">
+        <item> CSE </item>
+        <item> ECE </item>
+        <item> MECH </item>
+        <item> Civil </item>
+        <item> EEE </item>
+    </string-array>
+</resources>

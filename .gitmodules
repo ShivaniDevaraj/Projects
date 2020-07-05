@@ -1,0 +1,18 @@
+[submodule "Assignmnet"]
+	path = Assignmnet
+	url = https://github.com/ShivaniDevaraj/Assignement3.git
+[submodule "sharetext"]
+	path = sharetext
+	url = https://github.com/ShivaniDevaraj/sharetext.git
+[submodule "Assignment"]
+	path = Assignment
+	url = https://github.com/ShivaniDevaraj/Assignment2.git
+[submodule "assign"]
+	path = assign
+	url = https://github.com/ShivaniDevaraj/Assignement3.git
+[submodule "form"]
+	path = form
+	url = https://github.com/ShivaniDevaraj/regform.git
+[submodule "camera"]
+	path = camera
+	url = https://github.com/ShivaniDevaraj/Image.git

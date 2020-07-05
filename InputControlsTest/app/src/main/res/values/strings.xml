@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InputControlsTest</string>
+    <string-array name="district">
+        <item>Anantapur</item>
+        <item> Krishna </item>
+        <item> Kurnool </item>
+        <item> Kadapa </item>
+        <item> Guntur </item>
+        <item> Chittoor </item>
+        <item> Nellore </item>
+    </string-array>
+
+    <string-array name="Anantapur_Mandal">
+        <item>ATP1</item>
+        <item>ATP2</item>
+        <item>ATP3</item>
+        <item>ATP4</item>
+        <item>ATP5</item>
+    </string-array>
+
+    <string-array name="Krishna_Mandal">
+        <item>Kt1</item>
+        <item>Kt2</item>
+        <item>Kt3</item>
+        <item>Kt4</item>
+        <item>Kt5</item>
+    </string-array>
+
+</resources>
