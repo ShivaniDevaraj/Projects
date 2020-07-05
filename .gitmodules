@@ -17,5 +17,5 @@
 	path = camera
 	url = https://github.com/ShivaniDevaraj/Image.git
 [submodule "assign1"]
-	path = countapp2
+	path = Countapp/countapp2
 	url = https://github.com/ShivaniDevaraj/Assignment1.git
