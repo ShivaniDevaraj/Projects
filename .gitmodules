@@ -16,3 +16,6 @@
 [submodule "camera"]
 	path = camera
 	url = https://github.com/ShivaniDevaraj/Image.git
+[submodule "assign1"]
+	path = assign1
+	url = https://github.com/ShivaniDevaraj/Assignment1.git
